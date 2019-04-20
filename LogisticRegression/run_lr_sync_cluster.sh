@@ -1,0 +1,1 @@
+bash run_code_template.sh code_template_synch_monitor.py cluster 100 10 0.01

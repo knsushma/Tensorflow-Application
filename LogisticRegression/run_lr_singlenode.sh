@@ -1,0 +1,1 @@
+bash run_code_template.sh code_template_part_1.py single 100 10 0.01

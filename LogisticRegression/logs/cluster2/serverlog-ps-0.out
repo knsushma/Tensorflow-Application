@@ -1,0 +1,4 @@
+  File "code_template_part_1.py", line 87
+    train_writer = tf.summary.FileWriter("%s/single_node" % (os.environ.get("TF_LOG_DIR")), sess.graph)
+                                                                                                      ^
+IndentationError: unindent does not match any outer indentation level
